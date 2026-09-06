@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 142"
+  short_description: "Extended Type–Image Masks"
+  default_prompt: "Use $xxd-panel-142 to transform my photograph using the complete canonical source brief."
