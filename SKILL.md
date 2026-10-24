@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-142
-description: "Create XXD Panel 142 raster artwork from photographs using extended letterforms, typography masking, photographic subjects interacting with glyph boundaries, positive-negative shapes and abundant editorial whitespace. Use when the user invokes xxd-panel-142 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 142｜Extended Type–Image Masks: picks one short, strong word or phrase from the photo's theme in any language and makes it the structure of the design, masking the key subject inside extended, stretched, cropped or offset letterforms that act as windows, borders, paths or columns, with parts of the subject breaking out of the letters, positive and negative space, brightened photo colours inside the type against large warm white or pale backgrounds, and a few thin, calm supporting words. Reflections only when the photo has water, glass or a floor. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-142 or asks for typographic photo masks, experimental typography posters or type–image integration from a photo."
 ---
 
 # XXD Panel 142

@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 142｜Extended Type–Image Masks: picks one short, strong word or phrase from the photo's theme in any language and makes it the structure of the design, masking the key subject inside extended, stretched, cropped or offset letterforms that act as windows, borders, paths or columns, with parts of the subject breaking out of the letters, positive and negative space, brightened photo colours inside the type against large warm white or pale backgrounds, and a few thin, calm supporting words. Reflections only when the photo has water, glass or a floor. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-142 or asks for typographic photo masks, experimental typography posters or type–image integration from a photo.",
+  "short_description": "字形蒙版融合志：从照片提炼一个词，把主体嵌进拉长延展的字形里，字与图合成一体",
+  "zh-CN": {
+    "name": "字形蒙版融合志",
+    "tagline": "从照片里提炼一个词，把主体嵌进拉长延展的字形里，让字和图合成一体。",
+    "look": "设计的骨架是一个短而有力的词或词组，根据照片主题自由提炼，语种不限。照片里的主体被嵌进字形里，字的笔画被延伸、拉长、裁切或错位，变成窗口、边界、路径或柱体；主体还会局部穿出字形，和文字互相遮挡、连接。字形内部的影像保留更鲜活的主体色，外面是大片暖白、奶油白或很浅的底色，正负形和留白很清楚。只有照片里有水面、玻璃或地面时才会出现倒影。旁边配极少的纤细辅助小字。",
+    "traits": [
+      "扩展字形",
+      "摄影蒙版",
+      "主体穿插字形边界",
+      "正负形",
+      "字图融合与编辑留白"
+    ],
+    "good": [
+      "主题能用一个词说清的照片：一座城市、一种运动、一个季节、一道菜",
+      "主体轮廓鲜明、颜色有记忆点的照片：冲浪的人、红色电车、黄色出租车、一束花",
+      "想做成展览海报、品牌活动主视觉或杂志开篇页的照片"
+    ],
+    "poor": [
+      "想保留完整照片或完整场景的需求，照片只会出现在字形里",
+      "主题模糊、说不出一个关键词的照片：随手拍的杂物、无主体的风景",
+      "不想出现大字，或想要很多文字信息的海报"
+    ]
+  },
+  "en": {
+    "name": "Extended Type–Image Masks",
+    "tagline": "Draws one word from your photo and masks the subject inside stretched, extended letterforms so type and image become one.",
+    "look": "The design is built on one short, strong word or phrase drawn freely from the photo's theme, in any language. The subject is set inside the letters, whose strokes are extended, stretched, cropped or offset into windows, borders, paths or columns, and parts of the subject break out of the letterforms, overlapping or linking with the type. The image inside the letters keeps the subject's livelier colours, while outside there is a wide warm white, cream or very pale ground with clear positive and negative shapes. Reflections appear only when the photo already has water, glass or a floor. A few thin supporting words sit nearby.",
+    "traits": [
+      "Extended letterforms",
+      "Photo masks",
+      "Subject crossing letter edges",
+      "Positive and negative space",
+      "Type–image fusion with editorial whitespace"
+    ],
+    "good": [
+      "Photos whose theme fits one word: a city, a sport, a season, a dish",
+      "Photos with a bold subject outline and memorable colour: a surfer, a red tram, a yellow taxi, a bouquet",
+      "Photos for an exhibition poster, campaign key visual or magazine opening page"
+    ],
+    "poor": [
+      "Requests to keep the full photo or whole scene, since the image only appears inside the letters",
+      "Photos with a vague theme and no clear keyword: random clutter, landscapes without a focus",
+      "Designs that must avoid large type, or posters that need a lot of text"
+    ]
+  },
+  "ja": {
+    "name": "拡張字形と画像マスク",
+    "tagline": "写真から一語を選び、引き伸ばした字形の中に主役をはめ込んで、文字と画像を一つにします。",
+    "look": "デザインの骨組みは、写真のテーマから自由に選んだ短く力のある一語か語句で、言語は問いません。主役は文字の中にはめ込まれ、画線は延ばされ、引き伸ばされ、切られ、ずらされて、窓、境界、道、柱のような役目を持ちます。主役の一部は字形からはみ出し、文字と重なったりつながったりします。字の内側の画像は主役の生き生きした色を残し、外側は広い温白、クリーム、ごく淡い地色で、図と地の関係がはっきりしています。映り込みは、写真に水面、ガラス、床などがある場合だけです。細い補助の文字をほんの少し添えます。",
+    "traits": [
+      "拡張された字形",
+      "写真のマスク",
+      "字形の境界を越える主役",
+      "図と地",
+      "文字と画像の融合と余白"
+    ],
+    "good": [
+      "テーマを一語で言える写真：一つの街、スポーツ、季節、一皿の料理",
+      "輪郭がはっきりして色が印象的な写真：サーファー、赤い路面電車、黄色いタクシー、花束",
+      "展覧会のポスター、キャンペーンのキービジュアル、雑誌の扉ページにしたい写真"
+    ],
+    "poor": [
+      "写真や場面を丸ごと見せたい場合（画像は字形の中にしか現れません）",
+      "テーマがあいまいでキーワードが出てこない写真：何気ない雑貨、焦点のない風景",
+      "大きな文字を使いたくない場合や、文字情報の多いポスターが必要な場合"
+    ]
+  },
+  "ko": {
+    "name": "확장 글자–이미지 마스크",
+    "tagline": "사진에서 단어 하나를 뽑아 길게 늘인 글자 안에 주인공을 넣어 글자와 이미지를 하나로 만듭니다.",
+    "look": "디자인의 뼈대는 사진의 주제에서 자유롭게 뽑은 짧고 힘 있는 단어나 구절이며 언어는 자유입니다. 주인공은 글자 안에 들어가고, 획은 늘어나고, 길어지고, 잘리고, 어긋나 창, 경계, 길, 기둥 같은 역할을 합니다. 주인공 일부는 글자 밖으로 삐져나와 글자와 겹치거나 이어집니다. 글자 안 이미지는 주인공의 생생한 색을 살리고, 바깥은 넓은 따뜻한 흰색, 크림색, 아주 연한 바탕이라 양각과 음각의 관계가 뚜렷합니다. 반사는 사진에 물, 유리, 바닥이 있을 때만 나타납니다. 곁에는 가는 보조 글자 몇 개만 둡니다.",
+    "traits": [
+      "확장된 글자꼴",
+      "사진 마스크",
+      "글자 경계를 넘나드는 주인공",
+      "양각과 음각",
+      "글자·이미지 융합과 편집 여백"
+    ],
+    "good": [
+      "주제를 한 단어로 말할 수 있는 사진: 한 도시, 스포츠, 계절, 요리 한 접시",
+      "윤곽이 뚜렷하고 색이 기억에 남는 사진: 서핑하는 사람, 빨간 트램, 노란 택시, 꽃다발",
+      "전시 포스터, 캠페인 키 비주얼, 잡지 첫 페이지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사진이나 장면을 통째로 보여 주고 싶은 경우(이미지는 글자 안에만 나타납니다)",
+      "주제가 모호해 핵심 단어가 떠오르지 않는 사진: 아무렇게나 찍은 잡동사니, 초점 없는 풍경",
+      "큰 글자를 원하지 않거나 글자 정보가 많은 포스터가 필요한 경우"
+    ]
+  },
+  "ar": {
+    "name": "أقنعة حروف وصور ممتدة",
+    "tagline": "يستخرج كلمة واحدة من صورتك ويضع العنصر داخل حروف ممدودة ومستطالة، فيصير النص والصورة شيئاً واحداً.",
+    "look": "يقوم التصميم على كلمة أو عبارة قصيرة قوية تُستخرج بحرية من موضوع الصورة، وبأي لغة. يوضع العنصر داخل الحروف، وتُمدّ ضرباتها وتُستطال وتُقتطع أو تُزاح لتصير نوافذ وحدوداً ومسارات وأعمدة، وتخرج أجزاء من العنصر من الحروف فتتداخل مع النص أو تتصل به. تحتفظ الصورة داخل الحروف بألوان العنصر الأكثر حيوية، وفي الخارج أرضية واسعة بيضاء دافئة أو كريمية أو فاتحة جداً، مع علاقة واضحة بين الشكل والفراغ. لا تظهر الانعكاسات إلا إذا كان في الصورة ماء أو زجاج أو أرضية. وبالقرب كلمات مساعدة قليلة رفيعة.",
+    "traits": [
+      "حروف ممتدة",
+      "أقنعة فوتوغرافية",
+      "عنصر يعبر حدود الحروف",
+      "الشكل والفراغ",
+      "اندماج النص والصورة مع فراغ تحريري"
+    ],
+    "good": [
+      "صور يلخّص موضوعها كلمة واحدة: مدينة، رياضة، فصل من السنة، طبق",
+      "صور بعنصر واضح الحدود ولون لا يُنسى: راكب أمواج، ترام أحمر، سيارة أجرة صفراء، باقة زهور",
+      "صور لملصق معرض أو هوية رئيسية لحملة أو صفحة افتتاحية في مجلة"
+    ],
+    "poor": [
+      "طلب إبقاء الصورة كاملة أو المشهد كله، لأن الصورة تظهر داخل الحروف فقط",
+      "صور غامضة الموضوع بلا كلمة مفتاحية واضحة: أغراض متفرقة، مناظر بلا تركيز",
+      "تصاميم يجب أن تتجنب الحروف الكبيرة، أو ملصقات تحتاج إلى نص كثير"
+    ]
+  }
+}
